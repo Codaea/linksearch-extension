@@ -1,0 +1,13 @@
+{
+    "name": "Linksearch Extension",
+    "description": "Allows sending links directly to a Linksearch instance",
+    "version": "0.1",
+    "manifest_version": 3,
+    "permissions": [
+        "activeTab"
+    ],
+    "action" : {
+        "default_popup": "public/popup.html",
+        "default_icon": "icon.png"
+    }
+}
