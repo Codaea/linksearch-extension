@@ -1,5 +1,5 @@
 {
-    "name": "Linksearch Extension",
+    "name": "Linksearch",
     "description": "Allows sending links directly to a Linksearch instance",
     "version": "0.1",
     "manifest_version": 3,
