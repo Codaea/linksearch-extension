@@ -4,10 +4,13 @@
     "version": "0.1",
     "manifest_version": 3,
     "permissions": [
+        "storage",
         "activeTab"
     ],
     "action" : {
         "default_popup": "public/popup.html",
         "default_icon": "icon.png"
-    }
+    },
+    "options_page" : "public/options.html"
+    
 }
